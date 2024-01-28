@@ -20,13 +20,13 @@ This project demonstrates how to automate the login process using Selenium with 
    ```
 2. Navigate to the project directory:
    ```
-   cd automated-login-selenium-robot
+   cd TestAutomationOL
    ```
 3. Open the `login.robot` file in a text editor.
 4. Update the login credentials (username and password) in the `Variables` section.
 5. Run the test using the Robot Framework command:
    ```
-   robot login.robot
+   robot Test\ Case\ OL\ 1.robot
    ```
 
 ## File Structure
