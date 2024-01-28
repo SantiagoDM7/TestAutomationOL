@@ -6,7 +6,7 @@ This project demonstrates how to automate the login process using Selenium with 
 ## Prerequisites
 - Python installed on your system.
 - Pip package manager installed.
-- Chrome or Firefox browser installed.
+- Edge or Firefox browser installed.
 - Robot Framework and Selenium libraries installed. You can install them via pip:
   ```
   pip install robotframework
